@@ -7,6 +7,8 @@
 - 😄 CHANDRASEKHAR SAHU
 - ⚡ Fun fact: I love solving complex coding puzzles and often challenge myself with new algorithms in my free time. It's my way of keeping the problem-solving gears sharp!
 
+![](https://leetcard.jacoblin.cool/sahu-chandrasekhar?ext=heatmap)
+
 <!---
 Sahu-Chandrasekhar/Sahu-Chandrasekhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
